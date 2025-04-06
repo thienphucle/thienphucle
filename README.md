@@ -1,5 +1,9 @@
 # 💫 About Me:
-## 👋 Hi there, it's me, ThienPhucLe<br>👩‍💻 i'm studying Data Science at the University of Information Technology (VNU-HCM), Ho Chi Minh City, Viet Nam<br>🔎 Data Analysis is <br>📈 
+## 👋 Hi there, it's me, ThienPhucLe<br>
+👩‍💻 i'm studying Data Science at the University of Information Technology (VNU-HCM), Ho Chi Minh City, Viet Nam<br>
+🔎 Data Analysis is my current playground<br>
+💡 Eager to learn about Artificial Intelligence<br>
+📊 Interested in the challenges and opportunities of Big Data<br>
 
 
 ## 🌐 Socials:
